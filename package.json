@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eventsource": "^1.1.0",
     "express": "^4.17.1",
     "node-fetch": "^2.6.1",
+    "stellar-base": "^6.0.1",
     "stellar-sdk": "^8.2.5"
   }
 }
